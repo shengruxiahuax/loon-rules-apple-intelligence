@@ -1,0 +1,33 @@
+# 国内顶级域名
+DOMAIN-SUFFIX,cn
+
+# 腾讯与微信
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+
+# 阿里与支付宝
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+
+# 字节、京东、百度、网易、B站
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+
+# 国内 IP 兜底（放最后）
+GEOIP,CN
