@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,bytevcloud.com
 
 # 国内 IP 兜底（放最后）
 GEOIP,CN
