@@ -34,21 +34,13 @@ DOMAIN-SUFFIX,fbcdn.net
 # Meta
 DOMAIN-SUFFIX,meta.com
 
-# ChatGPT 核心与语音 (走专属干净节点，防封号/封IP)
-
-# 1. 核心主站与静态资源
+# ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-
-# 2. 语音通话功能 (Advanced Voice Mode 使用的底层服务)
 DOMAIN-SUFFIX,livekit.cloud
-
-# 3. 微软 Azure API 与图片处理专用网关
 DOMAIN-KEYWORD,openaicom
-
-# 4. 登录防机器人的安全验证组件
 DOMAIN-SUFFIX,arkoselabs.com
 
 # Telegram 核心域名与 MTProto 直连 IP
