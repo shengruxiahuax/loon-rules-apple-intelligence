@@ -1,13 +1,13 @@
-# 2. gooele核心大流量/基础服务
-DOMAIN-SUFFIX,youtube.com,Core_Proxy
-DOMAIN-SUFFIX,youtu.be,Core_Proxy
-DOMAIN-SUFFIX,ytimg.com,Core_Proxy
-DOMAIN-SUFFIX,googlevideo.com,Core_Proxy
-DOMAIN-SUFFIX,google.com,Core_Proxy
-DOMAIN-SUFFIX,gmail.com,Core_Proxy
-DOMAIN-SUFFIX,gstatic.com,Core_Proxy
+# Google 核心大流量/基础服务
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gstatic.com
 
-# (Twitter) 固定干净节点防封号
+# X (Twitter) 固定干净节点防封号
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
