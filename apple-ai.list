@@ -1,3 +1,4 @@
+# Apple Intelligence & Private Relay
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
@@ -5,7 +6,12 @@ DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+
+# OpenAI / ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-KEYWORD,openaicom
+DOMAIN-SUFFIX,arkoselabs.com
