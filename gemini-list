@@ -1,12 +1,14 @@
-# 1. Gemini & AI 专属规则
-DOMAIN-KEYWORD,gemini,Gemini_Dedicated
-DOMAIN-KEYWORD,generativelanguage,Gemini_Dedicated
-DOMAIN-SUFFIX,gemini.google.com,Gemini_Dedicated
-DOMAIN-SUFFIX,generativelanguage.googleapis.com,Gemini_Dedicated
-DOMAIN-SUFFIX,bard.google.com,Gemini_Dedicated
-DOMAIN-SUFFIX,googlebard.com,Gemini_Dedicated
-DOMAIN-SUFFIX,ai.google.dev,Gemini_Dedicated
-DOMAIN-SUFFIX,aistudio.google.com,Gemini_Dedicated
-DOMAIN-SUFFIX,deepmind.google,Gemini_Dedicated
-DOMAIN-SUFFIX,deepmind.com,Gemini_Dedicated
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com,Gemini_Dedicated
+# Gemini & AI 专属规则
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,googlebard.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
