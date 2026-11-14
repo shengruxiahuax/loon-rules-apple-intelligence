@@ -7,25 +7,12 @@ DOMAIN-SUFFIX,google.com,Core_Proxy
 DOMAIN-SUFFIX,gmail.com,Core_Proxy
 DOMAIN-SUFFIX,gstatic.com,Core_Proxy
 
-# X (Twitter) & Grok
+# (Twitter) 固定干净节点防封号
 DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.org
-DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN,stun.l.google.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,grok.com
 
 # Meta (Facebook, Instagram, WhatsApp)
 
