@@ -37,5 +37,15 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
 
+# 小米 / 米家 / 小爱音箱全家桶
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,xiaomiyoupin.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,duokan.com
+
 # 国内 IP 兜底（必须放最后）
 GEOIP,CN
