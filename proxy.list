@@ -34,15 +34,6 @@ DOMAIN-SUFFIX,fbcdn.net
 # Meta
 DOMAIN-SUFFIX,meta.com
 
-# ChatGPT
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-KEYWORD,openaicom
-DOMAIN-SUFFIX,arkoselabs.com
-
 # Telegram 核心域名与 MTProto 直连 IP
 
 DOMAIN-SUFFIX,t.me
