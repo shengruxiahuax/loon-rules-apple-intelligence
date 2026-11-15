@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.apple-dns.net
 
-# OpenAI / 内置 ChatGPT
+# OpenAI / 内置 ChatGPT & 独立 App
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-KEYWORD,openaicom
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaiassets.blob.core.windows.net
