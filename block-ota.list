@@ -1,0 +1,5 @@
+# 彻底屏蔽 iOS 系统 OTA 更新
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates.cdn-apple.com
